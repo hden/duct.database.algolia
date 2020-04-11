@@ -1,6 +1,5 @@
 (ns duct.database.algolia
-  (:require [integrant.core :as ig]
-            [jsonista.core :as jsonista])
+  (:require [integrant.core :as ig])
   (:import [com.algolia.search DefaultSearchClient]))
 
 (defrecord Boundary [client index])
