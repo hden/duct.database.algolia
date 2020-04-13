@@ -1,4 +1,4 @@
-(defproject hden/duct.database.algolia "0.1.0-SNAPSHOT"
+(defproject hden/duct.database.algolia "0.1.0"
   :description "Integrant methods for connecting to a Algolia index"
   :url "https://github.com/hden/duct.database.algolia"
   :license {:name "EPL-2.0"
