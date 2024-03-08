@@ -3,7 +3,7 @@
   :url "https://github.com/hden/duct.database.algolia"
   :license {:name "EPL-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
-  :dependencies [[org.clojure/clojure "1.11.1"]
+  :dependencies [[org.clojure/clojure "1.11.2"]
                  [com.algolia/algoliasearch-apache "3.16.9"]
                  [integrant "0.8.1"]]
   :repl-options {:init-ns duct.database.algolia})
