@@ -5,5 +5,5 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.12.3"]
                  [com.algolia/algoliasearch-apache "3.16.11"]
-                 [integrant "1.0.0"]]
+                 [integrant "1.0.1"]]
   :repl-options {:init-ns duct.database.algolia})
